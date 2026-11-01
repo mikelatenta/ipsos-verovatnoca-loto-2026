@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Ako koristite ovu analizu, navedite autora, verziju i datum RIK preseka."
+title: "Ipsos, verovatnoća i Loto: uslovna normalna analiza izbornih procena 2026."
+authors:
+  - family-names: Popesku
+    given-names: Mihajlo
+version: 1.0.0
+date-released: 2026-11-01
+url: "https://mikelatenta.github.io/ipsos-verovatnoca-loto-2026/"
+repository-code: "https://github.com/mikelatenta/ipsos-verovatnoca-loto-2026"
+type: software

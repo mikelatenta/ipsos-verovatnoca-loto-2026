@@ -1,0 +1,334 @@
+{
+  "version": "1.0.0",
+  "input_sha256": "6a0754a2960e354c0859257c3b46e1480c6fb39abcc84d03e79fc81486ec324b",
+  "interpretation": "Conditional normal-model diagnostics, not an identified probability for the actual survey or its intent.",
+  "z_975": 1.9599639845400534,
+  "headlines": [
+    {
+      "estimate_percent": 47.4,
+      "benchmark_percent": 38.97,
+      "error_pp": 8.43,
+      "margin_95_pp": 2.1000000000000014,
+      "se_pp": 1.0714482595417745,
+      "signed_z": 7.867855423653637,
+      "abs_z": 7.867855423653637,
+      "two_sided_p": 3.6077215435334554e-15,
+      "one_sided_tail": 1.8038607717667277e-15,
+      "one_in": 277183254841942.53,
+      "number": 1,
+      "list": "SNS / Ujedinjena Srbija",
+      "se_multipliers": [
+        {
+          "multiplier": 1,
+          "estimate_percent": 47.4,
+          "benchmark_percent": 38.97,
+          "error_pp": 8.43,
+          "margin_95_pp": 2.1000000000000014,
+          "se_pp": 1.0714482595417745,
+          "signed_z": 7.867855423653637,
+          "abs_z": 7.867855423653637,
+          "two_sided_p": 3.6077215435334554e-15,
+          "one_sided_tail": 1.8038607717667277e-15,
+          "one_in": 277183254841942.53
+        },
+        {
+          "multiplier": 1.5,
+          "estimate_percent": 47.4,
+          "benchmark_percent": 38.97,
+          "error_pp": 8.43,
+          "margin_95_pp": 2.1000000000000014,
+          "se_pp": 1.6071723893126617,
+          "signed_z": 5.245236949102424,
+          "abs_z": 5.245236949102424,
+          "two_sided_p": 1.560816032347256e-07,
+          "one_sided_tail": 7.80408016173628e-08,
+          "one_in": 6406904.973266679
+        },
+        {
+          "multiplier": 2,
+          "estimate_percent": 47.4,
+          "benchmark_percent": 38.97,
+          "error_pp": 8.43,
+          "margin_95_pp": 2.1000000000000014,
+          "se_pp": 2.142896519083549,
+          "signed_z": 3.9339277118268186,
+          "abs_z": 3.9339277118268186,
+          "two_sided_p": 8.356892609761001e-05,
+          "one_sided_tail": 4.178446304880501e-05,
+          "one_in": 11966.170282384412
+        },
+        {
+          "multiplier": 3,
+          "estimate_percent": 47.4,
+          "benchmark_percent": 38.97,
+          "error_pp": 8.43,
+          "margin_95_pp": 2.1000000000000014,
+          "se_pp": 3.2143447786253234,
+          "signed_z": 2.622618474551212,
+          "abs_z": 2.622618474551212,
+          "two_sided_p": 0.00872569242751884,
+          "one_sided_tail": 0.00436284621375942,
+          "one_in": 114.60408538424166
+        },
+        {
+          "multiplier": 4,
+          "estimate_percent": 47.4,
+          "benchmark_percent": 38.97,
+          "error_pp": 8.43,
+          "margin_95_pp": 2.1000000000000014,
+          "se_pp": 4.285793038167098,
+          "signed_z": 1.9669638559134093,
+          "abs_z": 1.9669638559134093,
+          "two_sided_p": 0.04918737784616711,
+          "one_sided_tail": 0.024593688923083556,
+          "one_in": 20.330418977150746
+        }
+      ],
+      "rounded_margin_sensitivity": [
+        {
+          "estimate_percent": 47.4,
+          "benchmark_percent": 38.97,
+          "error_pp": 8.43,
+          "margin_95_pp": 2.05,
+          "se_pp": 1.045937586695541,
+          "signed_z": 8.059754336425684,
+          "abs_z": 8.059754336425684,
+          "two_sided_p": 7.644792624507937e-16,
+          "one_sided_tail": 3.8223963122539685e-16,
+          "one_in": 1308079956013673.8
+        },
+        {
+          "estimate_percent": 47.4,
+          "benchmark_percent": 38.97,
+          "error_pp": 8.43,
+          "margin_95_pp": 2.1,
+          "se_pp": 1.0714482595417738,
+          "signed_z": 7.8678554236536415,
+          "abs_z": 7.8678554236536415,
+          "two_sided_p": 3.607721543533346e-15,
+          "one_sided_tail": 1.803860771766673e-15,
+          "one_in": 277183254841950.94
+        },
+        {
+          "estimate_percent": 47.4,
+          "benchmark_percent": 38.97,
+          "error_pp": 8.43,
+          "margin_95_pp": 2.15,
+          "se_pp": 1.0969589323880062,
+          "signed_z": 7.68488204170821,
+          "abs_z": 7.68488204170821,
+          "two_sided_p": 1.531380256384976e-14,
+          "one_sided_tail": 7.65690128192488e-15,
+          "one_in": 65300567630448.05
+        }
+      ],
+      "variance_equivalent_n": 2171.80924945746,
+      "se_factor_to_reach_p_05": 4.014285714285712
+    },
+    {
+      "estimate_percent": 40.0,
+      "benchmark_percent": 53.03,
+      "error_pp": -13.030000000000001,
+      "margin_95_pp": 2.1000000000000014,
+      "se_pp": 1.0714482595417745,
+      "signed_z": -12.161109865979466,
+      "abs_z": 12.161109865979466,
+      "two_sided_p": 5.0073712463417e-34,
+      "one_sided_tail": 2.50368562317085e-34,
+      "one_in": 1.997055841886265e+33,
+      "number": 3,
+      "list": "Studentska lista",
+      "se_multipliers": [
+        {
+          "multiplier": 1,
+          "estimate_percent": 40.0,
+          "benchmark_percent": 53.03,
+          "error_pp": -13.030000000000001,
+          "margin_95_pp": 2.1000000000000014,
+          "se_pp": 1.0714482595417745,
+          "signed_z": -12.161109865979466,
+          "abs_z": 12.161109865979466,
+          "two_sided_p": 5.0073712463417e-34,
+          "one_sided_tail": 2.50368562317085e-34,
+          "one_in": 1.997055841886265e+33
+        },
+        {
+          "multiplier": 1.5,
+          "estimate_percent": 40.0,
+          "benchmark_percent": 53.03,
+          "error_pp": -13.030000000000001,
+          "margin_95_pp": 2.1000000000000014,
+          "se_pp": 1.6071723893126617,
+          "signed_z": -8.107406577319644,
+          "abs_z": 8.107406577319644,
+          "two_sided_p": 5.171159941783118e-16,
+          "one_sided_tail": 2.585579970891559e-16,
+          "one_in": 1933802108729942.5
+        },
+        {
+          "multiplier": 2,
+          "estimate_percent": 40.0,
+          "benchmark_percent": 53.03,
+          "error_pp": -13.030000000000001,
+          "margin_95_pp": 2.1000000000000014,
+          "se_pp": 2.142896519083549,
+          "signed_z": -6.080554932989733,
+          "abs_z": 6.080554932989733,
+          "two_sided_p": 1.1976731032094066e-09,
+          "one_sided_tail": 5.988365516047033e-10,
+          "one_in": 834952373.3315028
+        },
+        {
+          "multiplier": 3,
+          "estimate_percent": 40.0,
+          "benchmark_percent": 53.03,
+          "error_pp": -13.030000000000001,
+          "margin_95_pp": 2.1000000000000014,
+          "se_pp": 3.2143447786253234,
+          "signed_z": -4.053703288659822,
+          "abs_z": 4.053703288659822,
+          "two_sided_p": 5.0413151107910974e-05,
+          "one_sided_tail": 2.5206575553955487e-05,
+          "one_in": 19836.093916435966
+        },
+        {
+          "multiplier": 4,
+          "estimate_percent": 40.0,
+          "benchmark_percent": 53.03,
+          "error_pp": -13.030000000000001,
+          "margin_95_pp": 2.1000000000000014,
+          "se_pp": 4.285793038167098,
+          "signed_z": -3.0402774664948664,
+          "abs_z": 3.0402774664948664,
+          "two_sided_p": 0.0023636028761150948,
+          "one_sided_tail": 0.0011818014380575474,
+          "one_in": 423.08291723000315
+        }
+      ],
+      "rounded_margin_sensitivity": [
+        {
+          "estimate_percent": 40.0,
+          "benchmark_percent": 53.03,
+          "error_pp": -13.030000000000001,
+          "margin_95_pp": 2.05,
+          "se_pp": 1.045937586695541,
+          "signed_z": -12.457722301735073,
+          "abs_z": 12.457722301735073,
+          "two_sided_p": 1.269446350673735e-35,
+          "one_sided_tail": 6.347231753368675e-36,
+          "one_in": 7.877449877809084e+34
+        },
+        {
+          "estimate_percent": 40.0,
+          "benchmark_percent": 53.03,
+          "error_pp": -13.030000000000001,
+          "margin_95_pp": 2.1,
+          "se_pp": 1.0714482595417738,
+          "signed_z": -12.161109865979475,
+          "abs_z": 12.161109865979475,
+          "two_sided_p": 5.007371246341238e-34,
+          "one_sided_tail": 2.503685623170619e-34,
+          "one_in": 1.9970558418864492e+33
+        },
+        {
+          "estimate_percent": 40.0,
+          "benchmark_percent": 53.03,
+          "error_pp": -13.030000000000001,
+          "margin_95_pp": 2.15,
+          "se_pp": 1.0969589323880062,
+          "signed_z": -11.878293357468326,
+          "abs_z": 11.878293357468326,
+          "two_sided_p": 1.5346868466084457e-32,
+          "one_sided_tail": 7.673434233042228e-33,
+          "one_in": 6.515987298711346e+31
+        }
+      ],
+      "variance_equivalent_n": 2090.589834391356,
+      "se_factor_to_reach_p_05": 6.204761904761901
+    }
+  ],
+  "lotto": {
+    "combinations": 15380937,
+    "single_p": 6.501554489170588e-08,
+    "two_independent_p": 4.227021077565423e-15,
+    "two_independent_one_in": 236573222997969,
+    "single_over_sns_p": 18021220.348405465,
+    "double_over_sns_p": 1.171659460565079
+  },
+  "matched_valid_votes": 4260113,
+  "national_valid_votes": 4374187,
+  "geography_valid_vote_scenarios": [
+    {
+      "list": "SNS / Ujedinjena Srbija",
+      "national_valid_percent": 39.471426347341804,
+      "matched_votes": 1681131,
+      "estimate_percent": 48.61538461538461,
+      "benchmark_percent": 39.462122248869925,
+      "error_pp": 9.153262366514689,
+      "margin_95_pp": 2.1538461538461555,
+      "se_pp": 1.0989212918377174,
+      "signed_z": 8.329315697585367,
+      "abs_z": 8.329315697585367,
+      "two_sided_p": 8.131097209952979e-17,
+      "one_sided_tail": 4.0655486049764894e-17,
+      "one_in": 1.22984632230929e+16
+    },
+    {
+      "list": "Studentska lista",
+      "national_valid_percent": 53.71917112825766,
+      "matched_votes": 2284668,
+      "estimate_percent": 41.02564102564103,
+      "benchmark_percent": 53.629281664594345,
+      "error_pp": -12.603640638953316,
+      "margin_95_pp": 2.1538461538461555,
+      "se_pp": 1.0989212918377174,
+      "signed_z": -11.46910223013001,
+      "abs_z": 11.46910223013001,
+      "two_sided_p": 1.886057943612736e-30,
+      "one_sided_tail": 9.43028971806368e-31,
+      "one_in": 5.3020640399016804e+29
+    }
+  ],
+  "historical_2012": {
+    "two_candidate_share": 0.48844583827041066,
+    "error_pp": 9.155416172958937,
+    "scenarios": [
+      {
+        "n_assumed": 1198,
+        "threshold": 0.58,
+        "k": 695,
+        "upper_tail": 1.2389945540957748e-10
+      },
+      {
+        "n_assumed": 1198,
+        "threshold": 0.575,
+        "k": 689,
+        "upper_tail": 1.1172673967918669e-09
+      },
+      {
+        "n_assumed": 655,
+        "threshold": 0.58,
+        "k": 380,
+        "upper_tail": 1.563045431483877e-06
+      },
+      {
+        "n_assumed": 655,
+        "threshold": 0.575,
+        "k": 377,
+        "upper_tail": 4.7850855719741705e-06
+      },
+      {
+        "n_assumed": 300,
+        "threshold": 0.58,
+        "k": 174,
+        "upper_tail": 0.0009094355833678506
+      },
+      {
+        "n_assumed": 300,
+        "threshold": 0.575,
+        "k": 173,
+        "upper_tail": 0.001339938243703117
+      }
+    ]
+  }
+}

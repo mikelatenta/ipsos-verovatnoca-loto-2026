@@ -1,0 +1,25 @@
+[
+  {
+    "public_file": "rik-national-20261030.txt",
+    "source_capture_sha256": "7d91252f95058f932b4843566119d6fc9931bacd3ed543a12ebe27eefca77298",
+    "public_text_sha256": "0a78395afcb17a1e282eceea6c92e173634abd869975615ff3e99e44b79d0a87",
+    "note": "Nacionalni presek; datum na portalu 30.10.2026. 09:10:00"
+  },
+  {
+    "public_file": "rik-kosovo-20261030.txt",
+    "source_capture_sha256": "ba5a517e186445e64c113d8a7fc1abd8700f0d0acd8efc2f3bb38646396799d6",
+    "public_text_sha256": "c6fd5c396a66b2339f80acf8eeddd25523f525352054fdf6567f29f79f927c58",
+    "note": "Regionalni prikaz Kosovo i Metohija; sačuvan 30.10.2026."
+  },
+  {
+    "public_file": "rik-overseas-20261030.txt",
+    "source_capture_sha256": "8c4d8131246eebfefff22960601adcf08cf03c5348d7362c68c7bb658ebbfc3d",
+    "public_text_sha256": "f87d323e7c27785b714155f75152f4cc3ef5300045d86418c84dad85ad0d35bc",
+    "note": "Regionalni prikaz Inostranstvo; sačuvan 30.10.2026."
+  },
+  {
+    "source": "User-supplied Ipsos public press release PDF",
+    "sha256": "6bb4d4a4ed060cb1870b22f4443154130b1f26bd39601e9b94e60cce29538ce8",
+    "public_pdf_url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2026-10/Saopstenje_-_Ipsos_Strategic_Marketing_-_Parlamentarni%20Izbori_2026_-_finalna_procena.pdf"
+  }
+]

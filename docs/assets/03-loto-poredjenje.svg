@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="778.357212pt" height="359.29932pt" viewBox="0 0 778.357212 359.29932" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T21:47:37.804327</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Mihajlo Popesku / reproducible Python analysis</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 359.29932 
+L 778.357212 359.29932 
+L 778.357212 0 
+L 0 0 
+z
+" style="fill: #fafbfd"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 231.84 278.928 
+L 698.4 278.928 
+L 698.4 102.672 
+L 231.84 102.672 
+z
+" style="fill: #fafbfd"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 231.84 278.928 
+L 231.84 102.672 
+" clip-path="url(#p09ce4b5f2d)" style="fill: none; stroke: #e2e7ee; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="mc48d26326c" d="M 0 0 
+L 0 3.5 
+" style="stroke: #617184; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc48d26326c" x="231.84" y="278.928" style="fill: #617184; stroke: #617184; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #617184" x="231.84" y="295.045187" transform="rotate(-0 231.84 295.045187)">6</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 332.175484 278.928 
+L 332.175484 102.672 
+" clip-path="url(#p09ce4b5f2d)" style="fill: none; stroke: #e2e7ee; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mc48d26326c" x="332.175484" y="278.928" style="fill: #617184; stroke: #617184; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #617184" x="332.175484" y="295.045187" transform="rotate(-0 332.175484 295.045187)">8</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 432.510968 278.928 
+L 432.510968 102.672 
+" clip-path="url(#p09ce4b5f2d)" style="fill: none; stroke: #e2e7ee; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mc48d26326c" x="432.510968" y="278.928" style="fill: #617184; stroke: #617184; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #617184" x="432.510968" y="295.045187" transform="rotate(-0 432.510968 295.045187)">10</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 532.846452 278.928 
+L 532.846452 102.672 
+" clip-path="url(#p09ce4b5f2d)" style="fill: none; stroke: #e2e7ee; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mc48d26326c" x="532.846452" y="278.928" style="fill: #617184; stroke: #617184; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #617184" x="532.846452" y="295.045187" transform="rotate(-0 532.846452 295.045187)">12</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 633.181935 278.928 
+L 633.181935 102.672 
+" clip-path="url(#p09ce4b5f2d)" style="fill: none; stroke: #e2e7ee; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mc48d26326c" x="633.181935" y="278.928" style="fill: #617184; stroke: #617184; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #617184" x="633.181935" y="295.045187" transform="rotate(-0 633.181935 295.045187)">14</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #617184" x="465.12" y="311.526125" transform="rotate(-0 465.12 311.526125)">−log₁₀(p) · svaki korak udesno znači 10 puta manju verovatnoću</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11"/>
+     <g id="text_7">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #617184" x="228.34" y="140.279063" transform="rotate(-0 228.34 140.279063)">Jedna loto sedmica</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_12"/>
+     <g id="text_8">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #617184" x="228.34" y="195.359063" transform="rotate(-0 228.34 195.359063)">Dve loto sedmice</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_13"/>
+     <g id="text_9">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #617184" x="228.34" y="250.439062" transform="rotate(-0 228.34 250.439062)">SNS: uslovni normalni model</text>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1">
+    <path d="M 231.84 135.72 
+L 291.388246 135.72 
+" clip-path="url(#p09ce4b5f2d)" style="fill: none; stroke: #d3dce8; stroke-width: 2"/>
+   </g>
+   <g id="LineCollection_2">
+    <path d="M 231.84 190.8 
+L 651.942945 190.8 
+" clip-path="url(#p09ce4b5f2d)" style="fill: none; stroke: #d3dce8; stroke-width: 2"/>
+   </g>
+   <g id="LineCollection_3">
+    <path d="M 231.84 245.88 
+L 655.394556 245.88 
+" clip-path="url(#p09ce4b5f2d)" style="fill: none; stroke: #d3dce8; stroke-width: 2"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 231.84 278.928 
+L 698.4 278.928 
+" style="fill: none; stroke: #bdcad8; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="mb162555ce9" d="M 0 5.244044 
+C 1.390737 5.244044 2.7247 4.691499 3.708099 3.708099 
+C 4.691499 2.7247 5.244044 1.390737 5.244044 0 
+C 5.244044 -1.390737 4.691499 -2.7247 3.708099 -3.708099 
+C 2.7247 -4.691499 1.390737 -5.244044 0 -5.244044 
+C -1.390737 -5.244044 -2.7247 -4.691499 -3.708099 -3.708099 
+C -4.691499 -2.7247 -5.244044 -1.390737 -5.244044 0 
+C -5.244044 1.390737 -4.691499 2.7247 -3.708099 3.708099 
+C -2.7247 4.691499 -1.390737 5.244044 0 5.244044 
+z
+" style="stroke: #215bc5"/>
+    </defs>
+    <g clip-path="url(#p09ce4b5f2d)">
+     <use xlink:href="#mb162555ce9" x="291.388246" y="135.72" style="fill: #215bc5; stroke: #215bc5"/>
+    </g>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #215bc5" x="303.388246" y="139.72" transform="rotate(-0 303.388246 139.72)">1 u 15.380.937</text>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p09ce4b5f2d)">
+     <use xlink:href="#mb162555ce9" x="651.942945" y="190.8" style="fill: #215bc5; stroke: #215bc5"/>
+    </g>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #215bc5" x="663.942945" y="194.8" transform="rotate(-0 663.942945 194.8)">1 u 236,6 biliona</text>
+   </g>
+   <g id="PathCollection_3">
+    <defs>
+     <path id="m7f5f1484a9" d="M 0 5.244044 
+C 1.390737 5.244044 2.7247 4.691499 3.708099 3.708099 
+C 4.691499 2.7247 5.244044 1.390737 5.244044 0 
+C 5.244044 -1.390737 4.691499 -2.7247 3.708099 -3.708099 
+C 2.7247 -4.691499 1.390737 -5.244044 0 -5.244044 
+C -1.390737 -5.244044 -2.7247 -4.691499 -3.708099 -3.708099 
+C -4.691499 -2.7247 -5.244044 -1.390737 -5.244044 0 
+C -5.244044 1.390737 -4.691499 2.7247 -3.708099 3.708099 
+C -2.7247 4.691499 -1.390737 5.244044 0 5.244044 
+z
+" style="stroke: #bd463d"/>
+    </defs>
+    <g clip-path="url(#p09ce4b5f2d)">
+     <use xlink:href="#m7f5f1484a9" x="655.394556" y="245.88" style="fill: #bd463d; stroke: #bd463d"/>
+    </g>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #bd463d" x="667.394556" y="249.88" transform="rotate(-0 667.394556 249.88)">1 u 277,2 biliona</text>
+   </g>
+  </g>
+  <g id="text_13">
+   <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172840" x="7.2" y="25.596406" transform="rotate(-0 7.2 25.596406)">Približno kao dve loto sedmice</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172840" x="7.2" y="53.1" transform="rotate(-0 7.2 53.1)">Loto 7/39 · jedna kombinacija po izvlačenju · dva unapred određena, nezavisna izvlačenja</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #617184" transform="translate(7.2 336.293266)">Dve sedmice su oko 1,17 puta verovatnije od SNS događaja u izabranom normalnom modelu.</text>
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #617184" transform="translate(7.2 348.696)">Poređenje opisuje veličinu brojeva; ne potvrđuje pretpostavke modela ankete.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p09ce4b5f2d">
+   <rect x="231.84" y="102.672" width="466.56" height="176.256"/>
+  </clipPath>
+ </defs>
+</svg>
